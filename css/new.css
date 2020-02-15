@@ -1,0 +1,33 @@
+
+body {
+    background: #373640;
+}
+div{
+	
+width: 885px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 31px;
+    border-radius: 16px;
+}
+
+img{
+	
+        max-width: 26%;
+    display: block;
+    margin: auto;
+}
+h1{text-align: center;font-size: 35px;margin-top: 0px;}
+span{
+	color: #4c3232bd;
+    font-family: sans-serif;
+    text-shadow: 10px 6px 9px #5f40404d;
+    text-transform: uppercase;
+}
+p {
+    text-align: center;
+    font-size: 26px;
+    font-style: italic;
+    color: #524343ed;
+}
